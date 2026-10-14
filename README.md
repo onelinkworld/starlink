@@ -4,13 +4,11 @@
 
 **全球网络加速服务｜60+ 地区节点｜10Gbps 骨干接入｜AES-256 加密｜Windows · macOS · Android · iOS 全平台客户端**
 
-[**官网 stelink.net**](https://stelink.net/) ｜ [客户端下载](https://stelink.net/) ｜ [中文](#zh) ｜ [English](#en) ｜ [Русский](#ru)
+[**官网 stelink.net**](https://stelink.net/) ｜ [客户端下载](https://stelink.net/) ｜ [中文](#中文文档) ｜ [English](#english) ｜ [Русский](#русский)
 
 </div>
 
 ---
-
-<a name="zh"></a>
 
 ## 中文文档
 
@@ -124,8 +122,6 @@ Windows 10 及以上、macOS 13 及以上、Android 6.0 及以上、iOS 与 iPad
 
 ---
 
-<a name="en"></a>
-
 ## English
 
 ### What is Stelink VPN?
@@ -235,8 +231,6 @@ Always download from the official page and verify the file name (`stelink.exe`, 
 Cross-border work, remote meetings, streaming, online gaming and multi-device households. Compared with a browser extension or a single proxy, Stelink VPN covers system-level traffic — mail, cloud storage and conferencing clients also travel through the encrypted tunnel. Compared with free tools, paid routes offer more bandwidth, better stability and support.
 
 ---
-
-<a name="ru"></a>
 
 ## Русский
 
